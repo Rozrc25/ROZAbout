@@ -77,7 +77,7 @@ const dataportfolio = [{
 
 const contactConfig = {
     YOUR_EMAIL:"rohithfaizal25@yahoo.com",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    description: " ''Feel free to reach out to me via email or connect with me on LinkedIn. I'm always open to engaging in meaningful conversations and expanding my professional network. Please don't hesitate to contact me if you have any questions or would like to discuss potential opportunities. I look forward to connecting with you!'' ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_4qs2zaa",
