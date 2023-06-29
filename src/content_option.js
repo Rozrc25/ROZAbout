@@ -20,7 +20,8 @@ const introdata = {
 
 const dataabout = {
     title: "about my self",
-    aboutme:"I'm a Computer Science Engineering student with a passion of ",
+    aboutme:"I am Rohith, a final-year B.Tech CSE student. Driven by a passion for technology, I possess a strong foundation in programming, software development, and data structures. With excellent problem-solving abilities and effective communication skills, I thrive in dynamic environments. Eager to contribute to innovative projects, I am dedicated to continuous learning and staying ahead in the rapidly evolving tech industry.",
+
 };
 const certificates = [{
         jobtitle: "Advanced Software Engineering Virtual Experience Program",
