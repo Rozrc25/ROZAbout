@@ -46,7 +46,6 @@
     right: -80px;
     width: 50px;
     height: 1px;
-    margin-right: 19px;
     content: "";
     display: block;
     position: absolute;
@@ -74,7 +73,7 @@
         position: relative;
         transform: unset;
         font-size: 17px;
-        margin-right: 65px;
+        margin-right: 80px;
     }
     .stick_follow_icon ul {
         margin-bottom: 20px;
