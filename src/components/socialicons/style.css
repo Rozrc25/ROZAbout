@@ -46,6 +46,7 @@
     right: -80px;
     width: 50px;
     height: 1px;
+    margin-right: 19px;
     content: "";
     display: block;
     position: absolute;
