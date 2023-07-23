@@ -1,4 +1,4 @@
-import rohith from "./assets/images/rohith.jpeg"
+import rohith from "./assets/images/profile-img.5179e446ac1a570ce69b.png"
 import thumbnail from './assets/images/Screenshot (155).png'
 
 const logotext = "ROZRC25";
