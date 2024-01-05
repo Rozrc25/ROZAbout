@@ -3,6 +3,7 @@ import thumbnail from './assets/images/Screenshot (155).png'
 import walmart from "./assets/images/walmart ASEVEP.jpg"
 import accent from "./assets/images/accenture DVEP.jpg"
 import cloud from "./assets/images/europ cloud.jpg"
+import camb from "./assets/images/BEC interm.jpg"
 var ceticon ="https://img.favpng.com/6/20/9/diploma-higher-education-logo-academic-certificate-png-favpng-t9LrfKwr2GdHpV088Ph3dQ5NF.jpg"
 
 const logotext = "ROZRC25";
@@ -48,6 +49,13 @@ const certificates = [{
         link:"https://drive.google.com/file/d/1zs10WXvnmVA8_awXAvDXq43tYaCNZfqX/view?usp=sharing",
         src:cloud
     },
+    {
+        jobtitle: "Business English",
+        where: "Cambridge English",
+        date: "2023",
+        link:camb,
+       src:camb
+    }
 ];
 
 const skills = [{
