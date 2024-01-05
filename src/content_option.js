@@ -1,7 +1,9 @@
 import rohith from "./assets/images/avarohith.jpg"
 import thumbnail from './assets/images/Screenshot (155).png'
+import walmart from "./assets/images/walmart ASEVEP.jpg"
+import accent from "./assets/images/accenture DVEP.jpg"
+import cloud from "./assets/images/europ cloud.jpg"
 var ceticon ="https://img.favpng.com/6/20/9/diploma-higher-education-logo-academic-certificate-png-favpng-t9LrfKwr2GdHpV088Ph3dQ5NF.jpg"
-
 
 const logotext = "ROZRC25";
 const meta = {
@@ -29,21 +31,22 @@ const certificates = [{
         jobtitle: "Advanced Software Engineering Virtual Experience Program",
         where: "(Walmart Global Tech)",
         date: "2023",
-       src:ceticon
+        link:"https://drive.google.com/file/d/1ULl-qAOyFpatIcZXsWdRNt_u-clJGxui/view?usp=sharing",
+       src:walmart
     },
     {
         jobtitle: "Accenture Nordics Virtual Experience Program",
         where: "Forage(Developer)",
         date: "2023",
         link:"https://drive.google.com/file/d/1dYLcCCmC6LnG1YlCU7qCJaI24zPbLaf3/view?usp=sharing",
-        src:ceticon
+        src:accent
     },
     {
         jobtitle: "Certified Cloud Computing ",
         where: "(Europe Academy)",
         date: "2021",
         link:"https://drive.google.com/file/d/1zs10WXvnmVA8_awXAvDXq43tYaCNZfqX/view?usp=sharing",
-        src:ceticon
+        src:cloud
     },
 ];
 
