@@ -5,6 +5,7 @@ import accent from "./assets/images/accenture DVEP.jpg"
 import cloud from "./assets/images/europ cloud.jpg"
 import camb from "./assets/images/BEC interm.jpg"
 import spktl from './assets/images/spok java.jpg'
+import tothumb from "./assets/images/todo.jpg"
 var ceticon ="https://img.favpng.com/6/20/9/diploma-higher-education-logo-academic-certificate-png-favpng-t9LrfKwr2GdHpV088Ph3dQ5NF.jpg"
 
 const logotext = "ROZRC25";
@@ -98,6 +99,10 @@ const dataportfolio = [{
         img: thumbnail,
         description: "clone of Swiggy with its API",
         link: "https://drive.google.com/file/d/13bpumZ1Dq1MMcuTNuS94u70QVe2sMdob/view?usp=sharing",
+    },{
+        img: tothumb,
+        description:"To Do List with browser storage",
+        link:"https://first-react-o0uuaa8p8-rozrc25.vercel.app/"
     }
 ];
 
