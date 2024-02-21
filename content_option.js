@@ -97,7 +97,7 @@ const services = [{
 
 const dataportfolio = [{
         img: thumbnail,
-        description: "Food Ordering Application",
+        description: "Food Ordering Application, Due to own database fetch couldn't host it online",
         link: "https://drive.google.com/file/d/1H-MCJsrE_MEkfIpoT4FXSSOXbfQxUAXc/view?usp=sharing",
     },{
         img: tothumb,
