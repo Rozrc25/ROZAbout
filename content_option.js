@@ -1,5 +1,5 @@
 import rohith from "./assets/images/avarohith.jpg"
-import thumbnail from './assets/images/Screenshot (155).png'
+import thumbnail from './assets/images/RF-home.png'
 import walmart from "./assets/images/walmart ASEVEP.jpg"
 import accent from "./assets/images/accenture DVEP.jpg"
 import cloud from "./assets/images/europ cloud.jpg"
