@@ -1,5 +1,5 @@
 import rohith from "./assets/images/avarohith.jpg"
-import thumbnail from './assets/images/Screenshot (155).png'
+import thumbnail from './assets/images/RF-home.png'
 import walmart from "./assets/images/walmart ASEVEP.jpg"
 import accent from "./assets/images/accenture DVEP.jpg"
 import cloud from "./assets/images/europ cloud.jpg"
@@ -89,8 +89,8 @@ const services = [{
 
 const dataportfolio = [{
         img: thumbnail,
-        description: "clone of Swiggy with its API",
-        link: "https://drive.google.com/file/d/13bpumZ1Dq1MMcuTNuS94u70QVe2sMdob/view?usp=sharing",
+        description: "Food Ordering Application",
+        link: "https://drive.google.com/file/d/1H-MCJsrE_MEkfIpoT4FXSSOXbfQxUAXc/view?usp=sharing",
     }
 ];
 
