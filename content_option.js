@@ -97,8 +97,8 @@ const services = [{
 
 const dataportfolio = [{
         img: thumbnail,
-        description: "clone of Swiggy with its API",
-        link: "https://drive.google.com/file/d/13bpumZ1Dq1MMcuTNuS94u70QVe2sMdob/view?usp=sharing",
+        description: "Food Ordering Application",
+        link: "https://drive.google.com/file/d/1u-Hrgaqxj-qeX9hQ4c20SzAJmYzXkOHT/view?usp=sharing",
     },{
         img: tothumb,
         description:"To Do List with browser storage",
