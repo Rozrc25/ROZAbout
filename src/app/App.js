@@ -1,5 +1,4 @@
 import React, { useEffect } from "react";
-import { SpeedInsights } from "@vercel/speed-insights/react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import {
   BrowserRouter as Router,
