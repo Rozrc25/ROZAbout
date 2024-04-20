@@ -4,6 +4,7 @@ import walmart from "./assets/images/walmart ASEVEP.jpg"
 import accent from "./assets/images/accenture DVEP.jpg"
 import cloud from "./assets/images/europ cloud.jpg"
 import camb from "./assets/images/BEC interm.jpg"
+import nptel from "./assets/images/nptel.jpg"
 var ceticon ="https://img.favpng.com/6/20/9/diploma-higher-education-logo-academic-certificate-png-favpng-t9LrfKwr2GdHpV088Ph3dQ5NF.jpg"
 
 const logotext = "ROZRC25";
@@ -55,6 +56,13 @@ const certificates = [{
         date: "2023",
         link:camb,
        src:camb
+    },
+    {
+        jobtitle:"Effective Writting",
+        where:"NPTEL Online Certification",
+        date: "Jan-Feb 2024",
+        link: nptel,
+        src:nptel
     }
 ];
 
