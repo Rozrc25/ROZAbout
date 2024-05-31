@@ -27,7 +27,7 @@ export const Certifications = () => {
                 <div className="content">
                   <p>{data.jobtitle}</p>
                   <p>{data.where}</p>
-                  <a href={data.link}>view project</a>
+                  <a href={data.link}>view certificate</a>
                 </div>
               </div>
             );
