@@ -1,4 +1,5 @@
 .po_items_ho {
+    display: flex;
     column-width: 15em;
     -moz-column-width: 15em;
     -webkit-column-width: 15em;
@@ -6,6 +7,20 @@
     -moz-column-gap: 4rem;
     -webkit-column-gap: 4rem;
 }
+
+@media only screen and (max-width: 850px) {
+    .po_items_ho {
+        display: flex;
+        flex-direction: column;
+        column-width: 15em;
+        -moz-column-width: 15em;
+        -webkit-column-width: 15em;
+        column-gap: 4rem;
+        -moz-column-gap: 4rem;
+        -webkit-column-gap: 4rem;
+    }
+  }
+
 
 .po_item {
     display: inline-block;
